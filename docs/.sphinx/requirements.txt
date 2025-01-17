@@ -2,4 +2,5 @@ canonical-sphinx[full]
 sphinx-autobuild
 sphinxcontrib-svg2pdfconverter[CairoSVG]
 sphinx-last-updated-by-git
-swagger_plugin_for_sphinx @ git+https://github.com/SecondSkoll/swagger-plugin-for-sphinx@patch-1
+#swagger_plugin_for_sphinx @ git+https://github.com/SecondSkoll/swagger-plugin-for-sphinx@patch-1
+../../swagger-plugin-for-sphinx/dist/swagger_plugin_for_sphinx-5.0.2-py3-none-any.whl
