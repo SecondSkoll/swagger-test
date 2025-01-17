@@ -2,4 +2,4 @@ canonical-sphinx[full]
 sphinx-autobuild
 sphinxcontrib-svg2pdfconverter[CairoSVG]
 sphinx-last-updated-by-git
-swagger_plugin_for_sphinx
+swagger_plugin_for_sphinx @ git+https://github.com/SecondSkoll/swagger-plugin-for-sphinx@patch-1

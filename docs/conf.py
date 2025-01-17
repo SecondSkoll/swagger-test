@@ -157,7 +157,7 @@ html_context = {
 
 # Template and asset locations
 
-html_static_path = [".sphinx/_static"]
+html_static_path = [".sphinx/_static", "content/content2/garbage.txt"]
 templates_path = [".sphinx/_templates"]
 
 

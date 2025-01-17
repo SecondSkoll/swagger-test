@@ -8,3 +8,4 @@ Swagger UI docs test
 
    test
    /content/test
+   /content/content2/test

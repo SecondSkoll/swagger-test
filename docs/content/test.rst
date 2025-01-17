@@ -1,4 +1,4 @@
-Swagger docs
-============
+Swagger docs - nested same folder
+=================================
 
-.. swagger-plugin:: ../_static/spec.yaml
+.. swagger-plugin:: ../api/spec/spec.yaml
