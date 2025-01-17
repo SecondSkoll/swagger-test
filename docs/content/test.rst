@@ -1,4 +1,4 @@
 Swagger docs
 ============
 
-.. swagger-plugin:: spec.yaml
+.. swagger-plugin:: ../_static/spec.yaml

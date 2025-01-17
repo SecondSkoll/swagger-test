@@ -6,4 +6,5 @@ Swagger UI docs test
    :hidden:
    :maxdepth: 2
 
+   test
    /content/test
