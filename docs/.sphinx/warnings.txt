@@ -1,0 +1,3 @@
+WARNING: Error getting data from Git (no "last updated" dates will be shown for source files from /home/skoll/git/_test/swagger-test/docs/content):
+fatal: not a git repository (or any of the parent directories): .git
+
